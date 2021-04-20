@@ -1,0 +1,12 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --host=localhost"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
